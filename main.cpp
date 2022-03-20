@@ -4,7 +4,7 @@
 
 
 #include <iostream>
-#include "header.h"
+#include "head.h"
 using namespace std;
 
 int main() {
